@@ -88,11 +88,3 @@ if raw_input("Would you like a reformatted copy of the data to be printed out? (
 
 	print string
 
-
-# Block A mostly girls
-# Block E mostly boys
-
-# Ideas
-#  Class size
-#  Outliers
-#  Percentages
